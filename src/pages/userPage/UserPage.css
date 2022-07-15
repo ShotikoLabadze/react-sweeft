@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+  padding: 0;
+}
 .container {
-  border: solid 0.5px rgb(179, 176, 176);
+  border: solid 1px rgb(179, 176, 176);
 }

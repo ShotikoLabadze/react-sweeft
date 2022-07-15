@@ -11,15 +11,15 @@
 }
 
 .info {
-  width: 60%;
+  width: 56%;
   border: solid 1px rgb(133, 130, 130);
   margin-left: 0.5%;
 }
 
 .address {
-  width: 12%;
-  margin-left: 1%;
-  border: solid 1px rgb(133, 130, 130);
+  width: 13%;
+  margin-left: 0.3%;
+  border: solid 2px rgb(133, 130, 130);
 }
 
 .root-container {
